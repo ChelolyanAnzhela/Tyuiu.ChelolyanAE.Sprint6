@@ -107,7 +107,6 @@
             textBoxVarX_CAE.Name = "textBoxVarX_CAE";
             textBoxVarX_CAE.Size = new Size(125, 27);
             textBoxVarX_CAE.TabIndex = 3;
-            
             textBoxVarX_CAE.KeyPress += textBoxVarX_CAE_KeyPress;
             // 
             // textBoxNameX_CAE
